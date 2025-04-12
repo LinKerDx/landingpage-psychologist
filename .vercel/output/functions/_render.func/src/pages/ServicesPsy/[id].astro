@@ -7,8 +7,6 @@ const servicio = servicios.serviciosPsicologia.find(
   (servicio) => servicio.id === id
 );
 if (!servicio) return Astro.redirect("/404");
-
-export const prerender = false;
 ---
 
 <Layout>
