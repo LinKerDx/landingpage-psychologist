@@ -2,7 +2,7 @@ import { c as createComponent, m as maybeRenderHead, a as renderTemplate, b as c
 import 'clsx';
 import { s as servicios } from '../chunks/servicios_B8panDt-.mjs';
 /* empty css                                 */
-import { $ as $$Layout } from '../chunks/Layout_D6fjunGW.mjs';
+import { $ as $$Layout } from '../chunks/Layout_D0O05H6U.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$Hero = createComponent(($$result, $$props, $$slots) => {
